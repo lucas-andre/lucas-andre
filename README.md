@@ -6,7 +6,7 @@
 📫 Como me contatar: dev.lucas.andre@gmail.com ou pelo número (61)98587-0674  
 😅 Fun fact: sou péssimo em damas  
 
-### Trabalahndo em...
+### Trabalhando em...
 
 💻 Atualmente trabalhando em pequenos projetos  
 Dê uma olhada no meu [portfólio.](https://lucas-andre.github.io) 🚀
