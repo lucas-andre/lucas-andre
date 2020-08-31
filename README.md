@@ -10,5 +10,5 @@ Oi oi, tudo bem?
 - 📫 Como me contatar: ... dev.lucas.andre@gmail.com 
 - 😅 Fun fact: ... Sou péssimo em damas
 
-### Dê uma olhada no meu [portfólio.](https://lucas-andre.github.io)
+Dê uma olhada no meu [portfólio.](https://lucas-andre.github.io)
 
