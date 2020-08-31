@@ -1,4 +1,4 @@
-### Oi, eu sou o Lucas André 👋  <br>
+### Oi, eu sou o Lucas André 👋  
 
 
 💻 Atualmente trabalhando em pequenos projetos  
