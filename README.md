@@ -1,5 +1,6 @@
 ### Oi, eu sou o Lucas André 👋  
 
+
 💻 Atualmente trabalhando em pequenos projetos  
 🌱 Estudando: algoritimos em JavaScript e estruturas de dados  
 🤔 Precisando de ajuda para: arrumar um estágio :D  
