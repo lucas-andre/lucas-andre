@@ -1,14 +1,10 @@
-### ⭐️ Um pouquinho sobre mim ⭐️
+### Oi, eu sou o Lucas André 👋
 
-Oi oi, tudo bem? 
-
-- 💻 Atualmente trabalhando em ... Pequenos projetos
-- 🌱 Estudando ... Algoritimos em JavaScript e estruturas de dados
-- 👯 Procurando colaborar em ... JavaScript
-- 🤔 Precisando de ajuda para ... Arrumar um estágio :D
-- 💬 Me pergunte sobre ... Qualquer coisa!
-- 📫 Como me contatar: ... dev.lucas.andre@gmail.com 
-- 😅 Fun fact: ... Sou péssimo em damas
+💻 Atualmente trabalhando em pequenos projetos
+🌱 Estudando: algoritimos em JavaScript e estruturas de dados
+🤔 Precisando de ajuda para: arrumar um estágio :D
+💬 Me pergunte sobre... qualquer coisa!
+📫 Como me contatar: dev.lucas.andre@gmail.com ou pelo número (61)98587-0674
+😅 Fun fact: sou péssimo em damas
 
 Dê uma olhada no meu [portfólio.](https://lucas-andre.github.io)
-
