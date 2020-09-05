@@ -8,5 +8,5 @@
 
 ### Trabalhando em...
 
-💻 Atualmente trabalhando em pequenos projetos  
+💻 Projetos pessoais
 Dê uma olhada no meu [portfólio.](https://lucas-andre.github.io) 🚀
