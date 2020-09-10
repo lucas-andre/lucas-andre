@@ -1,5 +1,5 @@
 ![Lucas André Banner](https://raw.githubusercontent.com/lucas-andre/lucas-andre/master/lucas.gif)
-## 👋 &nbsp;Opa, tudo bom? Eu sou Lucas André  
+## 👋 &nbsp;Opa, tudo bom?
 
 ### 😎 &nbsp;Sobre mim
 
