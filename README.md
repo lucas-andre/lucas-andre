@@ -22,7 +22,7 @@ Dê uma olhada no meu [portfólio.](https://lucas-andre.github.io) 🚀
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/lucas-andre">
