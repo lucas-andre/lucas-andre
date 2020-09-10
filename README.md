@@ -4,7 +4,7 @@
 ### 😎 &nbsp;Sobre mim
 
 🌱 Estudando: algoritimos em JavaScript e estruturas de dados  
-🎓 Cursando ADS
+🎓 Cursando ADS  
 🤔 Precisando de ajuda para arrumar um estágio :D  
 💬 Me pergunte sobre... qualquer coisa!  
 😅 Fun fact: sou péssimo em damas  
