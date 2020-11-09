@@ -17,10 +17,8 @@ Dê uma olhada no meu [portfólio.](https://lucas-andre.github.io) 🚀
 
 
 ## ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
+  
 <a href="https://github.com/lucas-andre">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucas-andre&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="182em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucas-andre&layout=compact&theme=radical" />
 </a>
-</p>
