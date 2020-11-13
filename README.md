@@ -7,7 +7,6 @@
 🎓 Cursando ADS  
 🤔 Precisando de ajuda para arrumar um estágio :D  
 💬 Me pergunte sobre... qualquer coisa!  
-😅 Fun fact: sou péssimo em damas  
 📫 Como me contatar: `dev.lucas.andre@gmail.com` ou pelo número `(61)98587-0674`
 
 Dê uma olhada no meu [portfólio.](https://lucas-andre.github.io) 🚀
