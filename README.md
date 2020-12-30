@@ -10,11 +10,3 @@
 📫 Como me contatar: `dev.lucas.andre@gmail.com` ou pelo número `(61)98587-0674`
 
 Dê uma olhada no meu [portfólio.](https://lucas-andre.github.io) 🚀
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/lucas-andre">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucas-andre&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-</a>
-</p>
