@@ -1,4 +1,4 @@
-![Lucas André Banner](/lucas-andre/banner.png)
+![Lucas André Banner](https://github.com/lucas-andre/lucas-andre/blob/master/banner.png)
 ## 👋 &nbsp;Opa, tudo bom?
 
 ### 😎 &nbsp;Sobre mim
