@@ -1,4 +1,4 @@
-![Lucas André Banner](https://raw.githubusercontent.com/lucas-andre/lucas-andre/master/banner.svg)
+![Lucas André Banner](https://raw.githubusercontent.com/lucas-andre/lucas-andre/master/banner.png)
 ## 👋 &nbsp;Opa, tudo bom?
 
 ### 😎 &nbsp;Sobre mim
