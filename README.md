@@ -4,7 +4,7 @@
 ### 😎 &nbsp;About me
 
 🌱 Studying: JavaScript algorithms and data structures  
-💼 Owner of startup [Fcktiming](https ://fcktiming.studio)  
+💼 Owner of startup [Fcktiming] (https ://fcktiming.studio)  
 💬 Ask me about ... anything!  
 📫 How to contact me: `dev.lucas.andre@gmail.com`
 
