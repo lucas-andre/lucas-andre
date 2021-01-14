@@ -1,8 +1,6 @@
 ![Banner](https://github.com/lucas-andre/lucas-andre/blob/master/banner.png)
 ## 👋 &nbsp;Hi, how are you?
 
-### 😎 &nbsp;About me
-
 🌱 Studying: JavaScript algorithms and data structures  
 💼 Owner of startup [Fcktiming](https://fcktiming.studio)  
 💬 Ask me about ... anything!  
