@@ -1,13 +1,12 @@
-![Lucas André Banner](https://github.com/lucas-andre/lucas-andre/blob/master/banner.png)
-## 👋 &nbsp;Opa, tudo bom?
+![Banner](https://github.com/lucas-andre/lucas-andre/blob/master/banner.png)
+## 👋 &nbsp;Hi, how are you?
 
-### 😎 &nbsp;Sobre mim
+### 😎 &nbsp;About me
 
-🌱 Estudando: algoritimos em JavaScript e estruturas de dados  
-🎓 Cursando ADS  
-💼 Dono da startup [Fcktiming](https://fcktiming.studio)  
-💬 Me pergunte sobre... qualquer coisa!  
-📫 Como me contatar: `dev.lucas.andre@gmail.com` ou pelo número `(61)98587-0674`
+🌱 Studying: JavaScript algorithms and data structures  
+💼 Owner of startup [Fcktiming](https ://fcktiming.studio)  
+💬 Ask me about ... anything!  
+📫 How to contact me: `dev.lucas.andre@gmail.com`
 
-Dê uma olhada no meu [portfólio.](https://lucas-andre.github.io) 🚀
+Take a look at my [portfolio.] (https://lucas-andre.github.io) 🚀
 
