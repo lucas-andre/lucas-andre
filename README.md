@@ -2,7 +2,7 @@
 ## 👋 &nbsp;Hi, how are you?
 
 🌱 Studying: JavaScript algorithms and data structures  
-💼 Owner of startup [Fcktiming](https://fcktiming.studio)  
+💼 Owner of [Fcktiming](https://fcktiming.studio)  
 💬 Ask me about ... anything!  
 📫 How to contact me: `dev.lucas.andre@gmail.com`
 
