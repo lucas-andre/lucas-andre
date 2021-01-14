@@ -1,4 +1,4 @@
-![Lucas André Banner](./banner.png)
+![Lucas André Banner](/banner.png)
 ## 👋 &nbsp;Opa, tudo bom?
 
 ### 😎 &nbsp;Sobre mim
