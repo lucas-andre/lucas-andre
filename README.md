@@ -1,4 +1,4 @@
-![Banner](https://github.com/lucas-andre/lucas-andre/blob/master/bannerzinho.png)
+![Banner](https://github.com/lucas-andre/lucas-andre/blob/master/bannerboy.png)
 ## 👋 &nbsp;Hi, how are you?
 
 🌱 Studying: JavaScript algorithms and data structures  
