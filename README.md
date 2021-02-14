@@ -8,3 +8,4 @@
 
 Take a look at my [portfolio.](https://lucas-andre.github.io) 🚀
 
+[![Visits Badge](https://badges.pufler.dev/visits/lucas-andre/lucas-andre)](https://lucas-andre.me)  
