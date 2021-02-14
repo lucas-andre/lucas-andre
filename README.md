@@ -1,5 +1,5 @@
 ![Banner](https://github.com/lucas-andre/lucas-andre/blob/master/bannerboi.png)
-## 👋 &nbsp;Hi, how are you?
+## 👋 &nbsp;Sup?
 
 🌱 Studying: JavaScript algorithms and data structures  
 💼 Owner of [Fcktiming](https://fcktiming.studio)  
