@@ -1,8 +1,8 @@
 ![Banner](https://github.com/lucas-andre/lucas-andre/blob/master/bannerboi.png)
 ## 👋 &nbsp;Sup?
 
-🌱 Studying: JavaScript algorithms and data structures  
-💼 Owner of [Fcktiming](https://fcktiming.studio)  
+🌱 Studying: React-Native  
+⌛️  Owner of [Fcktiming](https://fcktiming.studio)  
 💬 Ask me about ... anything!  
 📫 How to contact me: `dev.lucas.andre@gmail.com`
 
