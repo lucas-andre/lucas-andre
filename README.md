@@ -1,4 +1,4 @@
-![Banner](https://github.com/lucas-andre/lucas-andre/blob/master/bannerboi.png)
+![Banner](https://github.com/lucas-andre/lucas-andre/blob/master/fundinho.png)
 ## 👋 &nbsp;Sup?
 
 🌱 Studying: React-Native  
