@@ -6,6 +6,6 @@
 💬 Ask me about ... anything!  
 📫 How to contact me: `dev.lucas.andre@gmail.com`
 
-Take a look at my [portfolio.](https://lucas-andre.github.io) 🚀
+Take a look at my [portfolio.](https://lucas-andre.me) 🚀
 
 [![Visits Badge](https://badges.pufler.dev/visits/lucas-andre/lucas-andre)](https://lucas-andre.me)  
