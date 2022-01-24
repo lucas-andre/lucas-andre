@@ -1,8 +1,8 @@
 ![Banner](https://github.com/lucas-andre/lucas-andre/blob/master/banner2.png)
 ## 👋 &nbsp;Sup?
 
-🌱 Studying: React-Native and Dart 🎯  
-⏱ Owner of [Fcktiming](https://fcktiming.studio) and [TrampeRemoto_](https://tramperemoto.com)  
+🌱 Studying: React and React-Native 
+⏱ I tried to create two startups that failed: [Fcktiming](https://fcktiming.studio) and [TrampeRemoto_](https://tramperemoto.com)  
 💬 Ask me about ... anything!  
 📫 How to contact me: `dev.lucas.andre@gmail.com`
 
