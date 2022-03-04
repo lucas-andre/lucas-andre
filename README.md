@@ -1,4 +1,4 @@
-![Banner](https://github.com/lucas-andre/lucas-andre/blob/master/banner2.png)
+![Banner](https://github.com/lucas-andre/lucas-andre/blob/master/banner2.svg)
 ## 👋 &nbsp;Sup?
 
 🌱 Studying: Tailwind CSS
