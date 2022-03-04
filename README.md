@@ -1,7 +1,7 @@
 ![Banner](https://github.com/lucas-andre/lucas-andre/blob/master/banner-new.svg)
 ## 👋 &nbsp;Sup?
 
-🌱 Studying: Tailwind CSS
+🌱 Studying: Tailwind CSS  
 ⏱ I tried to create two startups that floped: [Fcktiming](https://fcktiming.studio) and [TrampeRemoto_](https://tramperemoto.com)  
 💬 Ask me about ... anything!  
 📫 How to contact me: `dev.lucas.andre@gmail.com`
