@@ -2,7 +2,7 @@
 ## 👋 &nbsp;Sup?
 
 🌱 Studying: Tailwind CSS  
-⏱ I tried to create two startups that floped 
+⏱ I tried to create two startups that floped   
 💬 Ask me about ... anything!  
 📫 How to contact me: `dev.lucas.andre@gmail.com`
 
