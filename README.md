@@ -2,7 +2,7 @@
 ## 👋 &nbsp;Sup?
 
 🌱 Studying: Tailwind CSS  
-⏱ I tried to create two startups that floped: [Fcktiming](https://fcktiming.studio) and [TrampeRemoto_](https://tramperemoto.com)  
+⏱ I tried to create two startups that floped 
 💬 Ask me about ... anything!  
 📫 How to contact me: `dev.lucas.andre@gmail.com`
 
