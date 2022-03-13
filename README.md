@@ -2,7 +2,8 @@
 ## 👋 &nbsp;Sup?
 
 🌱 Studying: Tailwind CSS  
-⏱ I tried to create two startups that floped   
+⏱ I created Fcktiming, a business focused on creating websites, which flopped.  
+🔥 I am currently working on building Trampe Remoto, a remote work startup.  
 💬 Ask me about ... anything!  
 📫 How to contact me: `dev.lucas.andre@gmail.com`
 
