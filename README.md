@@ -7,7 +7,7 @@
 💬 Ask me about ... anything!  
 📫 How to contact me: `dev.lucas.andre@gmail.com`
 
-Take a look at my [portfolio.](https://lucas-andre.github.io/portfolio/) 🚀
+Take a look at my [portfolio.](https://behance.net/lucas-andre) 🚀
 
 ### What am I good at
 
