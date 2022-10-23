@@ -15,4 +15,4 @@ Take a look at my [portfolio.](https://behance.net/lucas-andre) 🚀
 
 ### Visits to this profile
 
-[![Visits Badge](https://badges.pufler.dev/visits/lucas-andre/lucas-andre)](https://lucas-andre.github.io/portfolio/)  
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lucas-andre.visitor-badge&left_text=Viram%20esse%20Perfil)
