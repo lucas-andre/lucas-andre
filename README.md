@@ -8,6 +8,7 @@
 📫 How to contact me: `dev.lucas.andre@gmail.com`
 
 Take a look at my [portfolio.](https://behance.net/lucas-andre) 🚀
+Or my site: https://lucasorfeu.com
 
 ### What am I good at
 
