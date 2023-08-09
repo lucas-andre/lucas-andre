@@ -16,4 +16,4 @@ Or my site: https://lucasorfeu.com
 
 ### Visits to this profile
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lucas-andre.visitor-badge&left_text=Views)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flucas-andre%2Flucas-andre%2F&label=Visitors&labelColor=%230e1c73&countColor=%233041a6)
