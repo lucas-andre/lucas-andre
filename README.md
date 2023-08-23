@@ -3,8 +3,7 @@
 
 🌱 Studying: React Native 
 🔥 I'm currently working on an APP for online courses  
-💬 Ask me about ... anything!  
-📫 How to contact me: `dev.lucas.andre@gmail.com`
+💬 Ask me about ... anything! 
 
 Take a look at my [portfolio.](https://behance.net/lucas-andre) 🚀
 Or my site: https://lucasorfeu.com
