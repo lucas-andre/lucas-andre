@@ -1,8 +1,8 @@
 ![Banner](https://github.com/lucas-andre/lucas-andre/blob/master/vitrine.svg)
 ## 👋 &nbsp;Sup?
 
-🌱 Studying: React Native 
-🔥 I'm currently working on an APP for online courses  
+🌱 Studying: Interaction Design   
+🔥 I'm currently working on a design system for a coding academy startup.
 💬 Ask me about ... anything! 
 
 Take a look at my [portfolio.](https://behance.net/lucas-andre) 🚀
