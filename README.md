@@ -2,7 +2,7 @@
 ## 👋 &nbsp;Sup?
 
 🌱 Studying: Interaction Design   
-🔥 I'm currently working on a design system for a coding academy startup.
+🔥 I'm currently working on a design system for a coding academy startup.  
 💬 Ask me about ... anything! 
 
 Take a look at my [portfolio.](https://behance.net/lucas-andre) 🚀
